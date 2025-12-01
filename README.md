@@ -66,9 +66,11 @@ Proven track record of delivering successful projects across various industries 
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yuvrajkamble&theme=algolia&margin-w=10&margin-h=10&column=6" />
 </p>
+
 
 ---
 
