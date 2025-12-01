@@ -10,10 +10,10 @@
 ### 🚀 About Me
 - 🔭 I’m currently working on **React + Node.js projects**
 - 🌱 Learning **AWS, Docker, DevOps, Data Science**
-- 👨‍💻 All of my projects are available here → **[GitHub Repositories](https://github.com/yourusername?tab=repositories)**
+- 👨‍💻 All of my projects are available here → **[GitHub Repositories](https://github.com/yuvrajkamble)**
 - 💬 Ask me about **PHP | Laravel | Node.js | React | API Development**
 - ⚽ Hobby: Playing Football  
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **yuvrajkamble29@gmail.com**
 
 ---
 
