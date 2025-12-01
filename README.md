@@ -43,10 +43,10 @@
 
 ### 🤝 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/yuvraj-kamble-1595b7189" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:yuvrajkamble29@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
 </a>
 </p>
