@@ -1,52 +1,95 @@
-<h2 align="center">Hi 👋, I'm Yuvraj Kamble</h2>
-<h4 align="center">Full Stack PHP | Laravel | Node.js | React.js Developer</h4>
+<h1 align="center">Hi 👋, I'm Yuvraj Kamble</h1>
+<h3 align="center">Software Engineer | PHP | Laravel | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvrajkamble&label=Profile%20Views&color=brightgreen&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yuvrajkamble&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **React + Node.js projects**
-- 🌱 Learning **AWS, Docker, DevOps, Data Science**
-- 👨‍💻 All of my projects are available here → **[GitHub Repositories](https://github.com/yuvrajkamble)**
-- 💬 Ask me about **PHP | Laravel | Node.js | React | API Development**
-- ⚽ Hobby: Playing Football  
-- 📫 Reach me at: **yuvrajkamble29@gmail.com**
+## 🔥 Professional Summary
+
+Passionate **Software Engineer** with **6.9+ years of experience** in designing, developing, and deploying innovative software solutions.  
+Strong expertise in building **responsive UI**, **API integrations**, and user-friendly **web applications**.  
+Proven track record of delivering successful projects across various industries with a focus on **quality, performance, and clean code**.
 
 ---
 
-### ⚡ Tech Stack
-**Frontend:** React.js, HTML, CSS, Tailwind, JavaScript  
-**Backend:** PHP, Laravel, Node.js, Express  
+## 🛠️ Primary Skills
+
+- Core PHP  
+- Laravel  
+- MySQL  
+- Git & GitHub  
+- HTML  
+- CSS  
+- JavaScript  
+- CodeIgniter 3  
+
+---
+
+## ⚡ Additional Skills
+
+- React.js  
+- Node.js  
+- MongoDB  
+- API Development  
+- Hosting & Deployment: **AWS, GCP, Hostinger, GoDaddy**  
+
+---
+
+## 🚀 Tech Stack & Tools
+
+**Frontend:** HTML, CSS, JavaScript, React.js  
+**Backend:** PHP, Laravel, Node.js, CodeIgniter  
 **Database:** MySQL, MongoDB  
-**DevOps:** Docker, AWS EC2, GitHub Actions  
-**Tools:** Postman, VS Code, Git, GitHub  
+**DevOps / Cloud:** AWS, GCP  
+**Others:** Git, GitHub, Postman, VS Code  
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yuvrajkamble&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajkamble&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 Contribution Streak
+## 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=yuvrajkamble&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvrajkamble&theme=algolia&margin-w=10&margin-h=10&column=6" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/yuvraj-kamble-1595b7189" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-</a>
-<a href="mailto:yuvrajkamble29@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
-</a>
+  <a href="mailto:yuvrajkamble29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/yuvraj-kamble-1595b7189" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="tel:+917507500931">
+    <img src="https://img.shields.io/badge/Call-34A853?logo=phone&style=for-the-badge&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## ❤️ Thank You
+
+⭐ *If you like my work, consider giving a star to my repositories!*  
