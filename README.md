@@ -51,8 +51,10 @@ Proven track record of delivering successful projects across various industries 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yuvrajkamble&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajkamble&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-mu-orpin-49.vercel.app/api?username=yuvrajkamble&show_icons=true&theme=tokyonight" />
+
+<img height="180" src="https://github-readme-stats-mu-orpin-49.vercel.app/api/top-langs/?username=yuvrajkamble&layout=compact&theme=tokyonight" />
+
 </p>
 
 
